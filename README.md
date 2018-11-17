@@ -18,7 +18,7 @@
 - 如何「正确」使用互联网
 - 介绍 [CCZU XNet](https://xnet.cczu.org)
 - 使用 Hexo 搭建技术博客
-- Git 的简单介绍
+- Git 代码版本管理的简单介绍
 
 ## 活动交流群
 
