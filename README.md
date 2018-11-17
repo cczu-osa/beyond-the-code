@@ -18,3 +18,8 @@
 - 如何「正确」使用互联网
 - 使用 Hexo 搭建技术博客
 - Git 的简单介绍
+
+## 活动交流群
+
+- QQ 群：150803328
+- Telegram 群：https://t.me/joinchat/BBQ7FgrKAwfYYwEgkw3Wwg
