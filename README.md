@@ -21,5 +21,5 @@
 
 ## 活动交流群
 
-- QQ 群：150803328
-- Telegram 群：https://t.me/joinchat/BBQ7FgrKAwfYYwEgkw3Wwg
+- QQ 群：[150803328](http://qm.qq.com/cgi-bin/qm/qr?k=B3WCsmaAQEubvR0buFXbCVpiwNCHHk79)
+- Telegram 群：[https://t.me/joinchat/BBQ7FgrKAwfYYwEgkw3Wwg](https://t.me/joinchat/BBQ7FgrKAwfYYwEgkw3Wwg)
