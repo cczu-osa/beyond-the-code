@@ -16,7 +16,7 @@
 - GNU/Linux 的发展历史和现状
 - Unix shell 的使用
 - 如何「正确」使用互联网
-- 介绍 [CCZU XNet](https://xnet.cczu.org)
+- 介绍 [CCZU XNet](https://xnet.cczu.org) 校园大内网
 - 使用 Hexo 搭建技术博客
 - Git 代码版本管理的简单介绍
 
